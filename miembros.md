@@ -2,7 +2,7 @@
 
 * Black panther
 * Black Widow
-* Falcone
+* Falcon
 * Hank Pym
 * Hawkeye
 * Hulk
